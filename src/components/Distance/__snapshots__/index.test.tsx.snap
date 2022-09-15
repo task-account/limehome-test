@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Distance render 1`] = `
+<View>
+  <Text />
+  <View
+    style={
+      Object {
+        "flex": undefined,
+        "marginBottom": undefined,
+        "marginHorizontal": 4,
+        "marginLeft": undefined,
+        "marginRight": undefined,
+        "marginTop": undefined,
+        "marginVertical": undefined,
+      }
+    }
+  />
+  <Text>
+    3.2 km from city centre
+  </Text>
+</View>
+`;

@@ -1,0 +1,1 @@
+export { getBedroomSuites } from "./getBedroomSuites";

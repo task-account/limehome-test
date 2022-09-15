@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MapScreen render 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+>
+  <AIRMap
+    edgePadding={
+      Object {
+        "bottom": 50,
+        "left": 50,
+        "right": 50,
+        "top": 50,
+      }
+    }
+    initialRegion={
+      Object {
+        "latitude": 52.520008,
+        "latitudeDelta": 0.0922,
+        "longitude": 13.404954,
+        "longitudeDelta": 0.0421,
+      }
+    }
+    mapRef={[Function]}
+    onChange={[Function]}
+    onLayout={[Function]}
+    onMapReady={[Function]}
+    onMarkerPress={[Function]}
+    onRegionChangeComplete={[Function]}
+    region={null}
+  />
+</RCTSafeAreaView>
+`;

@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ApartmentCard render 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "opacity": 1,
+    }
+  }
+>
+  <View>
+    <View>
+      <Image
+        onError={[Function]}
+        onLoad={[Function]}
+        onLoadEnd={[Function]}
+        onLoadStart={[Function]}
+        onProgress={[Function]}
+        source={
+          Object {
+            "uri": "https://limehome.imgix.net/properties/96/3762f856-fce1-454c-b71b-b4f00b06e1c4.jpg",
+          }
+        }
+        style={
+          Array [
+            Object {
+              "bottom": 0,
+              "left": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            undefined,
+          ]
+        }
+      />
+    </View>
+    <View>
+      <Text>
+        4.5
+      </Text>
+      <View
+        style={
+          Object {
+            "flex": undefined,
+            "marginBottom": undefined,
+            "marginHorizontal": 2,
+            "marginLeft": undefined,
+            "marginRight": undefined,
+            "marginTop": undefined,
+            "marginVertical": undefined,
+          }
+        }
+      />
+      <Text />
+    </View>
+  </View>
+  <View>
+    <Text
+      numberOfLines={1}
+    >
+      montabaur am quendelberg
+    </Text>
+    <View
+      style={
+        Object {
+          "flex": undefined,
+          "marginBottom": undefined,
+          "marginHorizontal": undefined,
+          "marginLeft": undefined,
+          "marginRight": undefined,
+          "marginTop": undefined,
+          "marginVertical": 4,
+        }
+      }
+    />
+    <View>
+      <Text />
+      <View
+        style={
+          Object {
+            "flex": undefined,
+            "marginBottom": undefined,
+            "marginHorizontal": 4,
+            "marginLeft": undefined,
+            "marginRight": undefined,
+            "marginTop": undefined,
+            "marginVertical": undefined,
+          }
+        }
+      />
+      <Text>
+        0.4 km from city centre
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "backgroundColor": "#4b4b4d",
+          "height": 1,
+          "marginBottom": undefined,
+          "marginHorizontal": undefined,
+          "marginLeft": undefined,
+          "marginRight": undefined,
+          "marginTop": undefined,
+          "marginVertical": 8,
+        }
+      }
+    />
+    <View>
+      <Text>
+        From
+      </Text>
+      <View
+        style={
+          Object {
+            "flex": undefined,
+            "marginBottom": undefined,
+            "marginHorizontal": 4,
+            "marginLeft": undefined,
+            "marginRight": undefined,
+            "marginTop": undefined,
+            "marginVertical": undefined,
+          }
+        }
+      />
+      <Text>
+        55€/Night
+      </Text>
+    </View>
+  </View>
+</View>
+`;

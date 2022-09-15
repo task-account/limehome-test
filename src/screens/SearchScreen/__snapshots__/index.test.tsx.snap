@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchScreen render 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+>
+  <View>
+    <TextInput
+      onChangeText={[Function]}
+      placeholder="Type name"
+      value=""
+    />
+    <RCTScrollView
+      ItemSeparatorComponent={[Function]}
+      ListEmptyComponent={
+        <View>
+          <Spacer
+            vertical={100}
+          />
+          <Text>
+            Nothing was found
+          </Text>
+        </View>
+      }
+      ListFooterComponent={<View />}
+      data={Array []}
+      getItem={[Function]}
+      getItemCount={[Function]}
+      keyExtractor={[Function]}
+      onContentSizeChange={[Function]}
+      onLayout={[Function]}
+      onMomentumScrollBegin={[Function]}
+      onMomentumScrollEnd={[Function]}
+      onScroll={[Function]}
+      onScrollBeginDrag={[Function]}
+      onScrollEndDrag={[Function]}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      showsVerticalScrollIndicator={false}
+      stickyHeaderIndices={Array []}
+      viewabilityConfigCallbackPairs={Array []}
+    >
+      <View>
+        <View
+          onLayout={[Function]}
+        >
+          <View
+            style={
+              Object {
+                "flex": undefined,
+                "marginBottom": undefined,
+                "marginHorizontal": undefined,
+                "marginLeft": undefined,
+                "marginRight": undefined,
+                "marginTop": undefined,
+                "marginVertical": 100,
+              }
+            }
+          />
+          <Text>
+            Nothing was found
+          </Text>
+        </View>
+        <View
+          onLayout={[Function]}
+        >
+          <View />
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</RCTSafeAreaView>
+`;

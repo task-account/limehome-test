@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotFoundScreen render 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+>
+  <Text>
+    Oops! Screen is missing
+  </Text>
+</RCTSafeAreaView>
+`;

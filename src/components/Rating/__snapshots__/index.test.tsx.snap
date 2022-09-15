@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Rating render 1`] = `
+<View>
+  <Text>
+    2.3
+  </Text>
+  <View
+    style={
+      Object {
+        "flex": undefined,
+        "marginBottom": undefined,
+        "marginHorizontal": 2,
+        "marginLeft": undefined,
+        "marginRight": undefined,
+        "marginTop": undefined,
+        "marginVertical": undefined,
+      }
+    }
+  />
+  <Text />
+</View>
+`;

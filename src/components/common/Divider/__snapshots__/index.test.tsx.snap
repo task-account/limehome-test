@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Divider horizontal 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#4b4b4d",
+      "height": 1,
+      "marginBottom": undefined,
+      "marginHorizontal": 24,
+      "marginLeft": undefined,
+      "marginRight": undefined,
+      "marginTop": undefined,
+      "marginVertical": undefined,
+    }
+  }
+/>
+`;
+
+exports[`Divider render 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#4b4b4d",
+      "height": 1,
+      "marginBottom": undefined,
+      "marginHorizontal": undefined,
+      "marginLeft": undefined,
+      "marginRight": undefined,
+      "marginTop": undefined,
+      "marginVertical": 24,
+    }
+  }
+/>
+`;
+
+exports[`Divider vertical 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#4b4b4d",
+      "height": 1,
+      "marginBottom": undefined,
+      "marginHorizontal": undefined,
+      "marginLeft": undefined,
+      "marginRight": undefined,
+      "marginTop": undefined,
+      "marginVertical": 24,
+    }
+  }
+/>
+`;

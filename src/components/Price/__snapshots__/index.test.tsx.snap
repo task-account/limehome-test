@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Price render 1`] = `
+<View>
+  <Text>
+    From
+  </Text>
+  <View
+    style={
+      Object {
+        "flex": undefined,
+        "marginBottom": undefined,
+        "marginHorizontal": 4,
+        "marginLeft": undefined,
+        "marginRight": undefined,
+        "marginTop": undefined,
+        "marginVertical": undefined,
+      }
+    }
+  />
+  <Text>
+    55€/Night
+  </Text>
+</View>
+`;

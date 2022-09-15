@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spacer horizontal 1`] = `
+<View
+  style={
+    Object {
+      "flex": undefined,
+      "marginBottom": undefined,
+      "marginHorizontal": 24,
+      "marginLeft": undefined,
+      "marginRight": undefined,
+      "marginTop": undefined,
+      "marginVertical": undefined,
+    }
+  }
+/>
+`;
+
+exports[`Spacer render 1`] = `
+<View
+  style={
+    Object {
+      "flex": undefined,
+      "marginBottom": undefined,
+      "marginHorizontal": undefined,
+      "marginLeft": undefined,
+      "marginRight": undefined,
+      "marginTop": undefined,
+      "marginVertical": undefined,
+    }
+  }
+/>
+`;
+
+exports[`Spacer vertical 1`] = `
+<View
+  style={
+    Object {
+      "flex": undefined,
+      "marginBottom": undefined,
+      "marginHorizontal": undefined,
+      "marginLeft": undefined,
+      "marginRight": undefined,
+      "marginTop": undefined,
+      "marginVertical": 24,
+    }
+  }
+/>
+`;
